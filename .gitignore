@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+.idea/
+/uploads
+# Build stuff
+#application.properties
+email.properties
+mailgun.properties
+keys.properties
